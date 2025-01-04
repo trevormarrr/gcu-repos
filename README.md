@@ -1,54 +1,71 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# Trevor Marr's Academic Repositories
 
-# GitHub Pages
+_A collection of projects and resources from my coursework at Grand Canyon University._
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+![Hero Image](https://images.unsplash.com/photo-1729366791089-6c9643dee806?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+---
 
-## Step 1: Enable GitHub Pages
+## About This Site  
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Welcome to my GitHub Pages site! Here, you'll find repositories categorized by the courses I'm currently enrolled in or have completed. Each section contains projects, assignments, and any additional resources I’ve created or worked on as part of my academic journey.  
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## Current Courses  
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### **1. CST-339**  
+_Building a strong foundation in problem-solving and coding principles._  
+
+- NO REPOS YET
+
+### **2. CST-391**  
+_Exploring the tools and technologies to create dynamic, responsive web applications._  
+
+- NO REPOS YET 
+
+### **3. CST-201**  
+_Focusing on software design principles, version control, and collaboration._  
+
+- NO REPOS YET
+
+### **4. CST-321**  
+_Diving into data analysis, machine learning models, and predictive algorithms._  
+
+- NO REPOS YET
+
+---
+
+
+
+## How to Use This Site  
+
+1. Navigate through the course sections to find repositories for specific projects.  
+2. Each repository includes README files with detailed explanations and usage instructions.  
+3. Feel free to explore, clone, or contribute to any of the public repositories.  
+
+---
+
+## Future Additions  
+
+As I progress through my education, I’ll continue to add new repositories and resources. Check back often for updates!  
+
+---
+
+<footer>
+
+### Get in Touch  
+
+- For questions or collaboration opportunities, feel free to [contact me](mailto:tmarr2@my.gcu.edu).  
+- Stay updated by following my [GitHub profile](https://github.com/trevormarrr).  
+
+---
+
+&copy; 2025 Trevor Marr | [MIT License](https://choosealicense.com/licenses/mit/)  
+[GitHub Status](https://www.githubstatus.com/) | [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
 
 </footer>
