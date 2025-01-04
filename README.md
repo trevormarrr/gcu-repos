@@ -21,7 +21,7 @@ Welcome to my GitHub Pages site! Here, you'll find repositories categorized by t
 ### **1. CST-339**  
 _Programming in Java III_  
 
-- NO REPOS YET
+- [Activities and Milestones](https://github.com/trevormarrr/cst339)
 
 ### **2. CST-391**  
 _JavaScript Web Application Development_  
