@@ -19,26 +19,35 @@ Welcome to my GitHub Pages site! Here, you'll find repositories categorized by t
 ## Current Courses  
 
 ### **1. CST-339**  
-_Building a strong foundation in problem-solving and coding principles._  
+_Programming in Java III_  
 
 - NO REPOS YET
 
 ### **2. CST-391**  
-_Exploring the tools and technologies to create dynamic, responsive web applications._  
+_JavaScript Web Application Development_  
 
 - NO REPOS YET 
 
 ### **3. CST-201**  
-_Focusing on software design principles, version control, and collaboration._  
+_Algorithms and Data Structures_  
 
 - NO REPOS YET
 
 ### **4. CST-321**  
-_Diving into data analysis, machine learning models, and predictive algorithms._  
+_Operating Systems Fundamentals_  
 
 - NO REPOS YET
 
+
+## Past Courses  
+
+### **1. CST-350**  
+_Programming in C# III_  
+
+- [Milestone](https://github.com/rnording1/cst350clc)
+
 ---
+
 
 
 
